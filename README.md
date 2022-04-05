@@ -1,1 +1,3 @@
-# bootcampx
+# BootcampX
+
+PostgreSQL learning project.
